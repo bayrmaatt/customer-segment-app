@@ -25,22 +25,6 @@ It includes Exploratory Data Analysis (EDA), feature engineering, scaling, model
   - Predicts customer segment with the trained model
   - Displays results instantly
 
----
-
-## Project Structure
-Customer_Segmentation/
-│
-├── cust_seg.py # Main Streamlit app for predictions
-├── kmeans_model.pkl # Trained segmentation model
-├── scaler.pkl # Trained scaler
-├── Customer_seg.ipynb # Jupyter Notebook with EDA, training, saving model
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-└── data/
-└── customers_segmentation.csv # Raw dataset (not included in repo)
-
----
-
 ## Installation
 
 1. **Clone the repository**
