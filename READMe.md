@@ -3,6 +3,9 @@
 This project implements a **Customer Segmentation** pipeline using Python, Scikit-learn, and Streamlit.  
 It includes Exploratory Data Analysis (EDA), feature engineering, scaling, model training, and a web-based prediction interface.
 
+## Deployment
+This app is deployed on Streamlit Cloud:  
+[Live Demo]((https://customer-segment-app-bayrmaatt.streamlit.app))
 ---
 
 ## Features
@@ -35,5 +38,3 @@ cd customer-segmentation
 pip install -r requirements.txt
 
 streamlit run cust_seg.py
-
-
