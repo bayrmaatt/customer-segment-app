@@ -5,7 +5,7 @@ It includes Exploratory Data Analysis (EDA), feature engineering, scaling, model
 
 ## Deployment
 This app is deployed on Streamlit Cloud:  
-[Live Demo]((https://customer-segment-app-bayrmaatt.streamlit.app))
+[[Live Demo]((https://customer-segment-app-bayrmaatt.streamlit.app))](https://customer-segment-app-bayrmaatt.streamlit.app)
 ---
 
 ## Features
